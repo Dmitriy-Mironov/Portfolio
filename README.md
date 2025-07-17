@@ -7,7 +7,7 @@
 Основной опыт у меня - учебные проекты по специальности Data Scientist. Мне нравится работать с данными, анализировать, строить гипотезы, решать поставленные задачи. Также сейчас учусь в бакалавриате на направление "Прикладная информатика".
 
 ## <br>***ДИПЛОМ О ПРОФЕССИОНАЛЬНОЙ ПЕРЕПОДГОТОВКЕ***<br/>
-"[Специалист по Data Science](https://practicum.yandex.ru/data-scientist/?from=catalog)" (Яндекс.Практикум, Москва, Россия). Диплом о проф. переподготовке: [RU]() / [ENG](). 2022-2023
+"[Специалист по Data Science](https://practicum.yandex.ru/data-scientist/?from=catalog)" (Яндекс.Практикум, Москва, Россия). Диплом о проф. переподготовке: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/2023%20DS%20Миронов%20Д.%20Диплом%20RU.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/2023%20DS%20Миронов%20Д.%20Диплом%20EN.pdf). 2022-2023
 
 Контакты:
 * Почта: [mirdim777@yandex.ru](mailto:mirdim777@yandex.ru)
