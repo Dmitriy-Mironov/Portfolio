@@ -31,7 +31,7 @@
 | 8.   | [Предсказание оттока клиентов из банка](https://github.com/) | Построение модели машинного обучения, предсказывающей отток клиентов из банка  | python, pandas, numpy, scipy, seaborn, matplotlib       |
 | 9.   | [Рекомендация тарифов связи](https://github.com/) | Построение модели для классификации пользователей в зависимости от используемого ими тарифа | python, pandas, numpy, scipy, seaborn, matplotlib       |
 | 10.   | [Анализ закономерностей определяющих успешность компьютерной игры](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Projects/Clean.Сборный%20Проект%20—%201.ipynb) | На основе исследования информации из открытых источников выявить факторы и закономерности, определяющие успех выпуска компьютерной игры при планировании вывода на рынок новой компьютерной игры и оптимизации бюджета рекламной компании | python, pandas, numpy, scipy, seaborn, matplotlib       |
-| 11.   | [Анализ рыночной стоимости объектов недвижимости]([https://github.com/](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Projects/Сервис%20Яндекс%20Недвижимости%20(1).ipynb)) | Проведение исследовательского анализа данных датасета с объявлениями о продаже квартир | python, pandas, numpy, scipy, seaborn, matplotlib       |
+| 11.   | [Анализ рыночной стоимости объектов недвижимости]([https://github.com/](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Projects/Сервис%20Яндекс%20Недвижимости%20(1).ipynb) | Проведение исследовательского анализа данных датасета с объявлениями о продаже квартир | python, pandas, numpy, scipy, seaborn, matplotlib       |
 
 
 
