@@ -22,13 +22,13 @@
 | 2.   | [Анализ текстов](https://github.com/) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, CatBoost |
 | 3.   | [Прогноз количества заказов для сервиса такси](https://github.com/) | Прогноз количества заказов в аэропортах <br/>для сервиса такси с целью более точного планирования количества доступных <br/>автомобилей | python, pandas, numpy, statsmodels, sklearn, CatBoost, matplotlib |
 | 4.   | [Определение стоимости автомобиля ](https://github.com/) | Создание модели, которая будет определять рыночную стоимость автомобиля | python, pandas, numpy, scipy, seaborn, matplotlib       |
-| 5.   | [Разработка метода преоброзования данных](https://github.com/) |  | python, pandas, numpy, scipy, seaborn, matplotlib       |
+| 5.   | [Защита персональных данных клиентов страховой компании](https://github.com/) | Разработка метода преобразования данных, гарантирующего одновременно невозможность восстановления персональной информации и высокое качество моделей машинного обучения, использующих обезличенные персональные данные | python, pandas, numpy, scipy, seaborn, matplotlib       |
 | 6.   | [Улучшение процесса обогащения золота](https://github.com/) | Выбор лучшей модели для увеличения <br/>показателей технологического процесса <br/>обогащения золота | python, pandas, numpy, scipy, sklearn, matplotlib       |
-| 7.   | [Анализ самого прибыльного региона](https://github.com/) |  | python, pandas, numpy, scipy, seaborn, matplotlib       |
-| 8.   | [Прогноз ухода клиента их банка](https://github.com/) |  | python, pandas, numpy, scipy, seaborn, matplotlib       |
-| 9.   | [Разработка модели выбора тарифа связи](https://github.com/) |  | python, pandas, numpy, scipy, seaborn, matplotlib       |
-| 10.   | [Анализ закономерностей определяющих успешность компьютерной игры](https://github.com/) |  | python, pandas, numpy, scipy, seaborn, matplotlib       |
-| 11.   | [Анализ рыночной стоимости объектов недвижимости](https://github.com/) |  | python, pandas, numpy, scipy, seaborn, matplotlib       |
+| 7.   | [Поиск локации для скважины для ПАО "ГлавРосГосНефть"](https://github.com/) | Определение региона, где добыча нефти принесёт наибольшую прибыль | python, pandas, numpy, scipy, seaborn, matplotlib       |
+| 8.   | [Предсказание оттока клиентов из банка](https://github.com/) | Построение модели машинного обучения, предсказывающей отток клиентов из банка  | python, pandas, numpy, scipy, seaborn, matplotlib       |
+| 9.   | [Рекомендация тарифов связи](https://github.com/) | Построение модели для классификации пользователей в зависимости от используемого ими тарифа | python, pandas, numpy, scipy, seaborn, matplotlib       |
+| 10.   | [Анализ закономерностей определяющих успешность компьютерной игры](https://github.com/) | На основе исследования информации из открытых источников выявить факторы и закономерности, определяющие успех выпуска компьютерной игры при планировании вывода на рынок новой компьютерной игры и оптимизации бюджета рекламной компании | python, pandas, numpy, scipy, seaborn, matplotlib       |
+| 11.   | [Анализ рыночной стоимости объектов недвижимости](https://github.com/) | Проведение исследовательского анализа данных датасета с объявлениями о продаже квартир | python, pandas, numpy, scipy, seaborn, matplotlib       |
 
 
 
