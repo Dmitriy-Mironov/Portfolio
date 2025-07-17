@@ -13,7 +13,7 @@
 * Почта: [mirdim777@yandex.ru](mailto:mirdim777@yandex.ru)
 * Telegram: [@Dima_Kiborg](https://t.me/Dima_Kiborg)
 
-### [Резюме на hh](https://)
+### [Резюме на hh](https://hh.ru/resume/ef5f166fff0f2486010039ed1f38454c7a7641)
 
 Используемые технологии: Python 3, NumPy, Sklearn, Seaborn, Matplotlib, Plotly, Scikit-learn, Catboost,	LightGBM,	XGBoost, Redash, Excel, SQL, MariaDB, C++, Google Colab, Jupiter Notebook.
 
