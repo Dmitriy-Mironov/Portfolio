@@ -6,20 +6,28 @@
 
 Основной опыт у меня - учебные проекты по специальности Data Scientist. Мне нравится работать с данными, анализировать, строить гипотезы, решать поставленные задачи. Также сейчас учусь в бакалавриате на направление "Прикладная информатика".
 
-## <br>***ДИПЛОМ О ПРОФЕССИОНАЛЬНОЙ ПЕРЕПОДГОТОВКЕ***<br/>
-"[Специалист по Data Science](https://practicum.yandex.ru/data-scientist/?from=catalog)" (Яндекс.Практикум, Москва, Россия). Диплом о проф. переподготовке: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/2023%20DS%20Миронов%20Д.%20Диплом%20RU.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/2023%20DS%20Миронов%20Д.%20Диплом%20EN.pdf). 2022-2023
-
 Контакты:
 * Почта: [mirdim777@yandex.ru](mailto:mirdim777@yandex.ru)
 * Telegram: [@Dima_Kiborg](https://t.me/Dima_Kiborg)
 
+## <br>***ДИПЛОМ О ПРОФЕССИОНАЛЬНОЙ ПЕРЕПОДГОТОВКЕ***<br/>
+"[Специалист по Data Science](https://practicum.yandex.ru/data-scientist/?from=catalog)" (Яндекс.Практикум, Москва, Россия). Диплом о проф. переподготовке: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/2023%20DS%20Миронов%20Д.%20Диплом%20RU.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/2023%20DS%20Миронов%20Д.%20Диплом%20EN.pdf). 2022-2023
+
+## <br>***КУРСЫ***<br/>
+"[Excel: от новичка до уверенного бизнес-пользователя](https://stepik.org/users/435281777/profile)" Сертификат: 
+
 ### [Резюме на hh](https://hh.ru/resume/ef5f166fff0f2486010039ed1f38454c7a7641)
 
-Используемые технологии: Python 3, NumPy, Sklearn, Seaborn, Matplotlib, Plotly, Scikit-learn, Catboost,	LightGBM,	XGBoost, Redash, Excel, SQL, MariaDB, C++, Google Colab, Jupiter Notebook.
+## СТЕК
+|     Python 3     |        SQL       |     MS Excel     |      MariaDB     |
+|       NumPy      |      Sklearn     |     Seaborn      |     Matplotlib   |
+|      Plotly      |    Scikit-learn  |     Catboost     |      LightGBM    |
+|      XGBoost     |       Redash     |  Google Colab    | Jupiter Notebook |
+|       C++        |      MongoDB     |                  |                  |
 
 **Здесь собраны проекты c курса Data Science от Яндекс.Практикума**
 
-| #    | Наименование проекта                | Описание                                                     | Стек                                                         |
+| #    | Наименование проекта                | Описание                                                     | Библиотеки                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1.   | [Оптимизация производственных расходов металлоргического комбината](https://github.com/) | Разработка модели предсказывающей тепературу сплава для уменьшения потребления электроэнергии на этапе обработки стали | python, pandas, numpy, scipy, seaborn, matplotlib       |
 | 2.   | [Анализ текстов](https://github.com/) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, CatBoost |
