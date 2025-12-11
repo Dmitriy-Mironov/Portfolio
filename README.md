@@ -12,7 +12,7 @@
 
 ### [Резюме на hh](https://hh.ru/resume/ef5f166fff0f2486010039ed1f38454c7a7641)
 
-## **ДИПЛОМ О ПРОФЕССИОНАЛЬНОЙ ПЕРЕПОДГОТОВКЕ**
+## **ПРОФЕССИОНАЛЬНАЯ ПЕРЕПОДГОТОВКА**
 "[Специалист по Data Science](https://practicum.yandex.ru/data-scientist/?from=catalog)" (Яндекс.Практикум, Москва, Россия). Диплом о проф. переподготовке: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/2023%20DS%20Миронов%20Д.%20Диплом%20RU.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/2023%20DS%20Миронов%20Д.%20Диплом%20EN.pdf). 2022-2023
 
 "[Аналитика данных и методы искусственного интеллекта на базе решений ПАО Ростелеком](https://stepik.org/users/435281777/profile)" Диплом о проф. переподготовке: выдадут после окончания бакалавриата.
