@@ -10,13 +10,15 @@
 * Почта: [mirdim777@yandex.ru](mailto:mirdim777@yandex.ru)
 * Telegram: [@Dima_Kiborg](https://t.me/Dima_Kiborg)
 
+### [Резюме на hh](https://hh.ru/resume/ef5f166fff0f2486010039ed1f38454c7a7641)
+
 ## <br>***ДИПЛОМ О ПРОФЕССИОНАЛЬНОЙ ПЕРЕПОДГОТОВКЕ***<br/>
 "[Специалист по Data Science](https://practicum.yandex.ru/data-scientist/?from=catalog)" (Яндекс.Практикум, Москва, Россия). Диплом о проф. переподготовке: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/2023%20DS%20Миронов%20Д.%20Диплом%20RU.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/2023%20DS%20Миронов%20Д.%20Диплом%20EN.pdf). 2022-2023
+"[Аналитика данных и методы искусственного интеллекта на базе решений ПАО Ростелеком](https://stepik.org/users/435281777/profile)" Диплом о проф. переподготовке: выдадут после окончания бакалавриата.
 
 ## <br>***КУРСЫ***<br/>
-"[Excel: от новичка до уверенного бизнес-пользователя](https://stepik.org/users/435281777/profile)" Сертификат: 
+"[Excel: от новичка до уверенного бизнес-пользователя](https://stepik.org/users/435281777/profile)" Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/RUсертификатExcel.pdf) / [EN](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/ENсертификатExcel.pdf)
 
-### [Резюме на hh](https://hh.ru/resume/ef5f166fff0f2486010039ed1f38454c7a7641)
 
 ## СТЕК
 | | | | |
@@ -28,7 +30,7 @@
 |       C++        |      MongoDB     |                  |                  |
 
 
-**Здесь собраны проекты c курса Data Science от Яндекс.Практикума**
+#### **Здесь собраны проекты c курса Data Science от Яндекс.Практикума**
 
 | #    | Наименование проекта                | Описание                                                     | Библиотеки                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
