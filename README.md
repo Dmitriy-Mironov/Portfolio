@@ -26,6 +26,13 @@
 |      XGBoost     |       Redash     |  Google Colab    | Jupiter Notebook |
 |       C++        |      MongoDB     |                  |                  |
 
+| --- | --- | --- | --- |
+| Python 3 | SQL | MS Excel | MariaDB |
+| NumPy | Sklearn | Seaborn | Matplotlib |
+| Plotly | Scikit-learn | Catboost | LightGBM |
+| XGBoost | Redash | Google Colab | Jupiter Notebook |
+| C++ | MongoDB | | |
+
 **Здесь собраны проекты c курса Data Science от Яндекс.Практикума**
 
 | #    | Наименование проекта                | Описание                                                     | Библиотеки                                                         |
