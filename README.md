@@ -22,7 +22,7 @@
 
 
 ## СТЕК
-| | | | |
+| | | | | |
 | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: |
 |     Python 3     |        SQL       |     MS Excel     |      MariaDB     |      MongoDB     |
 |       NumPy      |      Sklearn     |     Seaborn      |    Matplotlib    |      Plotly      |
