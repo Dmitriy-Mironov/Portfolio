@@ -19,7 +19,7 @@
 ### [Резюме на hh](https://hh.ru/resume/ef5f166fff0f2486010039ed1f38454c7a7641)
 
 ## СТЕК
-
+| | | | |
 | :--------------: | :--------------: | :--------------: | :--------------: |
 |     Python 3     |        SQL       |     MS Excel     |      MariaDB     |
 |       NumPy      |      Sklearn     |     Seaborn      |     Matplotlib   |
