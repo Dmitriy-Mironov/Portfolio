@@ -27,16 +27,6 @@
 |      XGBoost     |       Redash     |  Google Colab    | Jupiter Notebook |
 |       C++        |      MongoDB     |                  |                  |
 
-### CFEK
-| | | | |
-|---|---|---|---|
-| Python 3 | SQL | MS Excel | MariaDB |
-| NumPy | sklearn | Seaborn | Matplotlib |
-| Plotly | Scikit-learn | Catboost | LightGBM |
-| XGBoost | Redash | Google Colab | Jupyter Notebook |
-| C++ | MongoDB | | |
-
-
 
 **Здесь собраны проекты c курса Data Science от Яндекс.Практикума**
 
