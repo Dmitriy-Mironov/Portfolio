@@ -15,10 +15,10 @@
 ## **ПРОФЕССИОНАЛЬНАЯ ПЕРЕПОДГОТОВКА**
 "[Специалист по Data Science](https://practicum.yandex.ru/data-scientist/?from=catalog)" (Яндекс.Практикум, Москва, Россия). Диплом о проф. переподготовке: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/2023%20DS%20Миронов%20Д.%20Диплом%20RU.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/2023%20DS%20Миронов%20Д.%20Диплом%20EN.pdf). 2022-2023
 
-"[Аналитика данных и методы искусственного интеллекта на базе решений ПАО Ростелеком](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/РП_Аналитика_данных_и_методы_ИИ_литератур%2BПО.pdf)" Диплом о проф. переподготовке: выдадут после окончания бакалавриата. 2024-2025
+"[Аналитика данных и методы искусственного интеллекта на базе решений ПАО Ростелеком](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/РП_Аналитика_данных_и_методы_ИИ_литератур%2BПО.pdf)". Диплом о проф. переподготовке: выдадут после окончания бакалавриата. 2024-2025
 
 ## **КУРСЫ**
-"[Excel: от новичка до уверенного бизнес-пользователя](https://stepik.org/users/435281777/profile)" Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/RUсертификатExcel.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/ENсертификатExcel.pdf).
+"[Excel: от новичка до уверенного бизнес-пользователя](https://stepik.org/users/435281777/profile)". Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/RUсертификатExcel.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/ENсертификатExcel.pdf).
 
 
 ## СТЕК
