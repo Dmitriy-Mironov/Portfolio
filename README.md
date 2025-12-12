@@ -19,7 +19,7 @@
 
 ## **КУРСЫ**
 "[Excel: от новичка до уверенного бизнес-пользователя](https://stepik.org/users/435281777/profile)". Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/RUсертификатExcel.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/ENсертификатExcel.pdf).
-«[Симулятор SQL](https://lab.karpov.courses/learning/152/)». Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/RUсертификатExcel.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/ENсертификатExcel.pdf). 
+"[Симулятор SQL](https://lab.karpov.courses/learning/152/)". Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/RU%20Сертификат%20Симулятор%20SQL.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/ENG%20Сертификат%20Симулятор%20SQL.pdf). 
 
 
 ## СТЕК
