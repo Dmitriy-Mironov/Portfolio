@@ -54,7 +54,8 @@
 | 8.   | [Рекомендация тарифов связи](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Projects/Рекомендация%20тарифов%20связи.ipynb) | Построение модели для классификации пользователей в зависимости от используемого ими тарифа | python, pandas, numpy, matplotlib.pyplot, seaborn, rcParams, rcParamsDefault, DecisionTreeClassifier, RandomForestClassifier, LogisticRegression, train_test_split, accuracy_score, plot_tree, DummyClassifier      |
 | 9.   | [Анализ закономерностей определяющих успешность компьютерной игры](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Projects/Clean.Сборный%20Проект%20—%201.ipynb) | На основе исследования информации из открытых источников выявить факторы и закономерности, определяющие успех выпуска компьютерной игры при планировании вывода на рынок новой компьютерной игры и оптимизации бюджета рекламной компании | python, pandas, numpy, matplotlib.pyplot, stats, seaborn      |
 | 10.   | [Анализ рыночной стоимости объектов недвижимости](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Projects/Сервис%20Яндекс%20Недвижимости%20(1).ipynb) | Проведение исследовательского анализа данных датасета с объявлениями о продаже квартир | python, pandas, seaborn, matplotlib       |
-| 11.   | [Exploratory Data Analysis и линейная регрессия]() |Анализ данных и выделение из них полезных признаков | python, pandas, folium, numpy, seaborn, matplotlib       |
+| 11.   | [DataViz: Анализ и распределение студентов](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Projects/Pandas.ipynb) |Используя библиотеки  pandas и matplotlib проанализировать табличные данные, и затем распределить студентов по курсам. | python, pandas, folium, numpy, seaborn, matplotlib       |
+| 12.   | [Exploratory Data Analysis и линейная регрессия](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Projects/Sklearn.ipynb) |Анализ данных и выделение из них полезных признаков | python, pandas, matplotlib       |
 
 
 
