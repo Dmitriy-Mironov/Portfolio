@@ -40,7 +40,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Оптимизация производственных расходов металлоргического комбината](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Projects/Ревью_3(очищ).ipynb) | Разработка модели предсказывающей тепературу сплава для уменьшения потребления электроэнергии на этапе обработки стали | python, pandas, numpy, seaborn, matplotlib.pyplot, train_test_split, mean_absolute_error, GridSearchCV, StandardScaler, MinMaxScaler, LinearRegression, RandomForestRegressor, CatBoostRegressor, LGBMRegressor, DummyRegressor      |
 
-### **Портфолио ML-проектов**
+### **Портфолио ML-, DL- и DA-проектов**
 
 | #    | Наименование проекта                | Описание                                                     | Библиотеки                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -54,6 +54,7 @@
 | 8.   | [Рекомендация тарифов связи](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Projects/Рекомендация%20тарифов%20связи.ipynb) | Построение модели для классификации пользователей в зависимости от используемого ими тарифа | python, pandas, numpy, matplotlib.pyplot, seaborn, rcParams, rcParamsDefault, DecisionTreeClassifier, RandomForestClassifier, LogisticRegression, train_test_split, accuracy_score, plot_tree, DummyClassifier      |
 | 9.   | [Анализ закономерностей определяющих успешность компьютерной игры](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Projects/Clean.Сборный%20Проект%20—%201.ipynb) | На основе исследования информации из открытых источников выявить факторы и закономерности, определяющие успех выпуска компьютерной игры при планировании вывода на рынок новой компьютерной игры и оптимизации бюджета рекламной компании | python, pandas, numpy, matplotlib.pyplot, stats, seaborn      |
 | 10.   | [Анализ рыночной стоимости объектов недвижимости](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Projects/Сервис%20Яндекс%20Недвижимости%20(1).ipynb) | Проведение исследовательского анализа данных датасета с объявлениями о продаже квартир | python, pandas, seaborn, matplotlib       |
+| 11.   | [Exploratory Data Analysis и линейная регрессия]() |Анализ данных и выделение из них полезных признаков | python, pandas, folium, numpy, seaborn, matplotlib       |
 
 
 
