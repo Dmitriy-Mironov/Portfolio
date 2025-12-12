@@ -18,7 +18,7 @@
 "[Аналитика данных и методы искусственного интеллекта на базе решений ПАО Ростелеком](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/РП_Аналитика_данных_и_методы_ИИ_литератур%2BПО.pdf)" Диплом о проф. переподготовке: выдадут после окончания бакалавриата. 2024-2025
 
 ## **КУРСЫ**
-"[Excel: от новичка до уверенного бизнес-пользователя](https://stepik.org/users/435281777/profile)" Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/RUсертификатExcel.pdf) / [EN](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/ENсертификатExcel.pdf)
+"[Excel: от новичка до уверенного бизнес-пользователя](https://stepik.org/users/435281777/profile)" Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/RUсертификатExcel.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/ENсертификатExcel.pdf).
 
 
 ## СТЕК
