@@ -26,11 +26,12 @@
 ## СТЕК
 | | | | | |
 | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: |
-|     Python 3     |        SQL       |     MS Excel     |      MariaDB     |      MongoDB     |
-|       NumPy      |      Sklearn     |     Seaborn      |    Matplotlib    |      Plotly      |
-|   Scikit-learn   |      XGBoost     |     Catboost     |     LightGBM     |      Redash      |
-|       C++        |   Yandex Cloud   |     Data Lens    |   Google Colab   | Jupiter Notebook |
-|     Loginom      |       Knime      |                  |                  |                  |
+|     Python 3     |        SQL       |     MS Excel     | Jupiter Notebook |   Google Colab   |
+|      Pandas      |       NumPy      |      Sklearn     |     Seaborn      |    Matplotlib    |          
+|   Scikit-learn   |      XGBoost     |     Catboost     |     LightGBM     | GradientBoosting |
+|      Plotly      |    TensorFlow    |       NLTK       |      OpenCV      |       C++        |                                       
+|    ООП Python    |      ООП C++     |   Yandex Cloud   |     Data Lens    |      Redash      |                                    
+|     Loginom      |       Knime      |      MariaDB     |      MongoDB     |                  |
 
 
 ### **Здесь собраны проекты c курса Data Science от Яндекс.Практикума**
