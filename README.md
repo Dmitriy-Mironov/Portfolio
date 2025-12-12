@@ -56,6 +56,8 @@
 | 10.   | [Анализ рыночной стоимости объектов недвижимости](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Projects/Сервис%20Яндекс%20Недвижимости%20(1).ipynb) | Проведение исследовательского анализа данных датасета с объявлениями о продаже квартир | python, pandas, seaborn, matplotlib       |
 | 11.   | [DataViz: Анализ и распределение студентов](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Projects/Pandas.ipynb) |Используя библиотеки  pandas и matplotlib проанализировать табличные данные, и затем распределить студентов по курсам. | python, pandas, folium, numpy, seaborn, matplotlib       |
 | 12.   | [Exploratory Data Analysis и линейная регрессия](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Projects/Sklearn.ipynb) |Анализ данных и выделение из них полезных признаков | python, pandas, matplotlib       |
+| 13.   | [VizMarket: Визуализация торговых данных](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Projects/Библиотеки%20визуализации%20данных%20Matplotlib%2C%20Seaborn%2C%20Altair%2C%20Plotly%20Express.ipynb) |Анализ и визуализация данных | python, pandas, matplotlib.pyplot, seaborn, alt, px, hvplot.pandas       |
+| 14.   | [ImbalanceML: Модели для несбалансированных данных](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Projects/ML%20на%20несбаланс%20данных.ipynb) |Построение и применение моделей машинного обучения к несбалансированным данным | python, numpy, pandas, os, Path, seaborn, pyplot, balanced_accuracy_score, classification_report_imbalanced, StandardScaler, train_test_split, LinearRegression, mean_squared_error, mean_absolute_error, r2_score, stats, LogisticRegression, confusion_matrix, RandomOverSampler, svm, DecisionTreeClassifier, tree, GridSearchCV       |
 
 
 
