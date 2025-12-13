@@ -27,11 +27,10 @@
 | | | | | |
 | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: |
 |     Python 3     |        C++       |        SQL       |      MS Excel    |      MariaDB     |
-|      MongoDB     |      Loginom     |       Knime      |    Yandex Cloud  |     Data Lens    |                                                   
-|      Redash      | Jupiter Notebook |   Google Colab   |       Pandas     |       NumPy      |
-|     Sklearn      |     Seaborn      |    Matplotlib    |   Scikit-learn   |      Plotly      |
-|    TensorFlow    |       NLTK       |      OpenCV      |     XGBoost      |     Catboost     |     
-|     LightGBM     | GradientBoosting |                  |                  |                  |   
+|      MongoDB     |    Yandex Cloud  |     Data Lens    |      Redash      | Jupiter Notebook |   
+|   Google Colab   |       Pandas     |       NumPy      |     Sklearn      |     Seaborn      |    
+|    Matplotlib    |   Scikit-learn   |      Plotly      |    TensorFlow    |       NLTK       |      
+|      OpenCV      |     XGBoost      |     Catboost     |     LightGBM     | GradientBoosting |                 
 
 
 ### **Дипломный проект курса Data Science**
