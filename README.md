@@ -28,16 +28,17 @@
 | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: |
 |     Python 3     |        C++       |        SQL       |      MS Excel    |      MariaDB     |
 |      MongoDB     |    Yandex Cloud  |     Data Lens    |      Redash      | Jupiter Notebook |   
-|   Google Colab   |       Pandas     |       NumPy      |     Sklearn      |     Seaborn      |    
-|    Matplotlib    |   Scikit-learn   |      Plotly      |    TensorFlow    |       NLTK       |      
-|      OpenCV      |     XGBoost      |     Catboost     |     LightGBM     | GradientBoosting |                 
+|   Google Colab   |     Loginom      |       Knime      |       Pandas     |       NumPy      |     
+|     Sklearn      |     Seaborn      |    Matplotlib    |   Scikit-learn   |      Plotly      |    
+|    TensorFlow    |       NLTK       |      OpenCV      |     XGBoost      |     Catboost     |     
+|     LightGBM     | GradientBoosting |                  |                  |                  |
 
 
 ### **Дипломный проект курса Data Science**
 
 | Наименование проекта                | Описание                                                     | Библиотеки                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Оптимизация производственных расходов металлоргического комбината](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Projects/Ревью_3(очищ).ipynb) | Разработка модели предсказывающей тепературу сплава для уменьшения потребления электроэнергии на этапе обработки стали | python, pandas, numpy, seaborn, matplotlib.pyplot, train_test_split, mean_absolute_error, GridSearchCV, StandardScaler, MinMaxScaler, LinearRegression, RandomForestRegressor, CatBoostRegressor, LGBMRegressor, DummyRegressor      |
+| [Оптимизация производственных расходов металлоргического комбината](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Projects/Ревью_3(очищ).ipynb) | Разработка модели предсказывающей температуру сплава для уменьшения потребления электроэнергии на этапе обработки стали | python, pandas, numpy, seaborn, matplotlib.pyplot, train_test_split, mean_absolute_error, GridSearchCV, StandardScaler, MinMaxScaler, LinearRegression, RandomForestRegressor, CatBoostRegressor, LGBMRegressor, DummyRegressor      |
 
 ### **Портфолио ML-, DL- и DA-проектов**
 
