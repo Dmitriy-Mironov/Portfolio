@@ -22,7 +22,7 @@
 
 "[Симулятор SQL](https://karpov.courses/simulator-sql)". Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/RU%20Сертификат%20Симулятор%20SQL.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/ENсертификатExcelPowerQueryиPivot(%2BBI).pdf). 
 
-"[Excel Power Query и Pivot (+BI): с 0 до бизнес-пользователя](https://stepik.org/course/144530/promo?search=9498899347)". Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/RUсертификатExcelPowerQueryиPivot(%2BBI).pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/ENG%20Сертификат%20Симулятор%20SQL.pdf). 
+"[Excel Power Query и Pivot (+BI): с 0 до бизнес-пользователя](https://stepik.org/course/144530/promo?search=9498899347)". Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/RUсертификатExcelPowerQueryиPivot(%2BBI).pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/ENсертификатExcelPowerQueryиPivot(%2BBI).pdf). 
 
 "[Макросы VBA для начинающих](https://stepik.org/course/193585/promo?search=9498896139)". Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/RUсертификатМакросыVBA.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/ENсертификатМакросыVBA.pdf). 
 
