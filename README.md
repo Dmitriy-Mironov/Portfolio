@@ -20,18 +20,22 @@
 ## **КУРСЫ**
 "[Excel: от новичка до уверенного бизнес-пользователя](https://stepik.org/course/119119/promo?search=8457280619)". Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/RUсертификатExcel.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/ENсертификатExcel.pdf).
 
-"[Симулятор SQL](https://karpov.courses/simulator-sql)". Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/RU%20Сертификат%20Симулятор%20SQL.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/ENG%20Сертификат%20Симулятор%20SQL.pdf). 
+"[Симулятор SQL](https://karpov.courses/simulator-sql)". Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/RU%20Сертификат%20Симулятор%20SQL.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/ENсертификатExcelPowerQueryиPivot(%2BBI).pdf). 
+
+"[Excel Power Query и Pivot (+BI): с 0 до бизнес-пользователя](https://stepik.org/course/144530/promo?search=9498899347)". Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/RUсертификатExcelPowerQueryиPivot(%2BBI).pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/ENG%20Сертификат%20Симулятор%20SQL.pdf). 
+
+"[Макросы VBA для начинающих](https://stepik.org/course/193585/promo?search=9498896139)". Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/RUсертификатМакросыVBA.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/ENсертификатМакросыVBA.pdf). 
 
 
 ## СТЕК
 | | | | | |
 | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: |
-|     Python 3     |        C++       |        SQL       |      MS Excel    |      MariaDB     |
-|      MongoDB     |    Yandex Cloud  |     Data Lens    |      Redash      | Jupiter Notebook |   
-|   Google Colab   |     Loginom      |       Knime      |       Pandas     |       NumPy      |     
-|     Sklearn      |     Seaborn      |    Matplotlib    |   Scikit-learn   |      Plotly      |    
-|    TensorFlow    |       NLTK       |      OpenCV      |     XGBoost      |     Catboost     |     
-|     LightGBM     | GradientBoosting |                  |                  |                  |
+|     Python 3     |       C++        |        SQL       |     MS Excel     |    Power Query   |
+|   Power Pivot    |       VBA        |    MS Power BI   |     MariaDB      |      MongoDB     |   
+|    Data Lens     |      Redash      | Jupiter Notebook |   Google Colab   |      Loginom     |     
+|      Knime       |      Pandas      |      NumPy       |      Sklearn     |      Seaborn     |    
+|    Matplotlib    |   Scikit-learn   |      Plotly      |    TensorFlow    |       NLTK       |     
+|      OpenCV      |      XGBoost     |     Catboost     |     LightGBM     | GradientBoosting |
 
 
 ### **Дипломный проект курса Data Science**
