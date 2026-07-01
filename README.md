@@ -8,7 +8,7 @@
 
 Контакты:
 * Почта: [mirdim777@yandex.ru](mailto:mirdim777@yandex.ru)
-* Telegram: [@Dima_Kiborg](https://t.me/Dima_Kiborg)
+* Telegram: [@mirdim77](https://t.me/mirdim77)
 
 ### [Резюме на hh](https://hh.ru/resume/ef5f166fff0f2486010039ed1f38454c7a7641)
 
