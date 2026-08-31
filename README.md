@@ -27,14 +27,16 @@
 "[Макросы VBA для начинающих](https://stepik.org/course/193585/promo?search=9498896139)". Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/RUсертификатМакросыVBA.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/ENсертификатМакросыVBA.pdf). 
 
 ## **ПРАКТИКИ**
-"[Аналитик данных (BI-разработчик)]()" (ООО «Производственная компания Аквариус», Москва). 29.06.2026-26.07.2026
-
-"[Специалист по нагрузочному тестированию]()" (IBS, Москва). 30.07.2026-31.08.2026
+"[Аналитик данных (BI-разработчик)]()" (ООО «Производственная компания Аквариус», Москва). 
+29.06.2026-26.07.2026
+"[Специалист по нагрузочному тестированию]()" (IBS, Москва). 
+30.07.2026-31.08.2026
 
 ## **СТАЖИРОВКИ**
-"[Low-code специалист](https://hh.ru/vacancy/134845028?hhtmFrom=employer_vacancies)" (IBS, Москва). 10.08.2026-21.09.2026
-
-"[Аналитика и работа с данными (СУБД GREENPLUM)](https://internarenadata.sapiens.solutions/)" (Sapiens Solutions, Москва). 07.09.2026-
+"[Low-code специалист](https://hh.ru/vacancy/134845028?hhtmFrom=employer_vacancies)" (IBS, Москва). 
+10.08.2026-21.09.2026
+"[Аналитика и работа с данными (СУБД GREENPLUM)](https://internarenadata.sapiens.solutions/)" (Sapiens Solutions, Москва). 
+07.09.2026-
 
 ## СТЕК
 | | | | | |
