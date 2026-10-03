@@ -13,18 +13,18 @@
 ### [Резюме на hh](https://hh.ru/resume/ef5f166fff0f2486010039ed1f38454c7a7641)
 
 ## **ПРОФЕССИОНАЛЬНАЯ ПЕРЕПОДГОТОВКА**
-"[Специалист по Data Science](https://practicum.yandex.ru/data-scientist/?from=catalog)" (Яндекс.Практикум, Москва, Россия). Диплом о проф. переподготовке: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/2023%20DS%20Миронов%20Д.%20Диплом%20RU.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/2023%20DS%20Миронов%20Д.%20Диплом%20EN.pdf). 2022 — 2023
+"[Специалист по Data Science](https://practicum.yandex.ru/data-scientist/?from=catalog)" (Яндекс.Практикум, Москва, Россия). Диплом о проф. переподготовке: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Certificates/2023%20DS%20Миронов%20Д.%20Диплом%20RU.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Certificates/2023%20DS%20Миронов%20Д.%20Диплом%20EN.pdf). 2022 — 2023
 
-"[Аналитика данных и методы искусственного интеллекта на базе решений ПАО Ростелеком](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/РП_Аналитика_данных_и_методы_ИИ_литератур%2BПО.pdf)". Диплом о проф. переподготовке: выдадут после окончания бакалавриата. 2024 — 2025
+"[Аналитика данных и методы искусственного интеллекта на базе решений ПАО Ростелеком](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Certificates/РП_Аналитика_данных_и_методы_ИИ_литератур%2BПО.pdf)". Диплом о проф. переподготовке: выдадут после окончания бакалавриата. 2024 — 2025
 
 ## **КУРСЫ**
-"[Excel: от новичка до уверенного бизнес-пользователя](https://stepik.org/course/119119/promo?search=8457280619)". Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/RUсертификатExcel.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/ENсертификатExcel.pdf).
+"[Excel: от новичка до уверенного бизнес-пользователя](https://stepik.org/course/119119/promo?search=8457280619)". Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Certificates/RUсертификатExcel.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Certificates/ENсертификатExcel.pdf).
 
-"[Симулятор SQL](https://karpov.courses/simulator-sql)". Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/RU%20Сертификат%20Симулятор%20SQL.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/ENсертификатExcelPowerQueryиPivot(%2BBI).pdf). 
+"[Симулятор SQL](https://karpov.courses/simulator-sql)". Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Certificates/RU%20Сертификат%20Симулятор%20SQL.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Certificates/ENсертификатExcelPowerQueryиPivot(%2BBI).pdf). 
 
-"[Excel Power Query и Pivot (+BI): с 0 до бизнес-пользователя](https://stepik.org/course/144530/promo?search=9498899347)". Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/RUсертификатExcelPowerQueryиPivot(%2BBI).pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/ENсертификатExcelPowerQueryиPivot(%2BBI).pdf). 
+"[Excel Power Query и Pivot (+BI): с 0 до бизнес-пользователя](https://stepik.org/course/144530/promo?search=9498899347)". Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Certificates/RUсертификатExcelPowerQueryиPivot(%2BBI).pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Certificates/ENсертификатExcelPowerQueryиPivot(%2BBI).pdf). 
 
-"[Макросы VBA для начинающих](https://stepik.org/course/193585/promo?search=9498896139)". Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/RUсертификатМакросыVBA.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/ENсертификатМакросыVBA.pdf). 
+"[Макросы VBA для начинающих](https://stepik.org/course/193585/promo?search=9498896139)". Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Certificates/RUсертификатМакросыVBA.pdf) / [ENG](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Certificates/ENсертификатМакросыVBA.pdf). 
 
 ## **ПРАКТИКИ**
 "[Аналитик данных (BI-разработчик)]()" (ООО «Производственная компания Аквариус», Москва). 
@@ -34,11 +34,11 @@
 30.07.2026 — 31.08.2026
 
 ## **СТАЖИРОВКИ**
-"[Low-code специалист](https://hh.ru/vacancy/134845028?hhtmFrom=employer_vacancies)" (IBS, Москва). 
-10.08.2026 — 21.09.2026
+"[Low-code специалист](https://hh.ru/vacancy/134845028?hhtmFrom=employer_vacancies)" (IBS, Москва). Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Certificates/RUСертификатLow-code(IBS).pdf). 
+10.08.2026 — 22.09.2026
 
 "[Аналитика и работа с данными (СУБД GREENPLUM)](https://internarenadata.sapiens.solutions/)" (Sapiens Solutions, Москва). 
-07.09.2026 — 
+07.09.2026 — 16.10.2026
 
 ## СТЕК
 | | | | | |
