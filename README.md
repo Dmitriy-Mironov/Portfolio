@@ -34,7 +34,7 @@
 30.07.2026 — 31.08.2026
 
 ## **СТАЖИРОВКИ**
-"[Low-code специалист](https://hh.ru/vacancy/134845028?hhtmFrom=employer_vacancies)" (IBS, Москва). Сертификат: [RU](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Certificates/RUСертификатLow-code(IBS).pdf). 
+"[Low-code специалист](https://hh.ru/vacancy/134845028?hhtmFrom=employer_vacancies)" (IBS, Москва). Сертификат: [RU]([https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Certificates/RUСертификатLow-code(IBS).pdf](https://github.com/Dmitriy-Mironov/Portfolio/blob/main/Certificates/RU%20Сертификат%20Low-code(IBS).pdf)). 
 10.08.2026 — 22.09.2026
 
 "[Аналитика и работа с данными (СУБД GREENPLUM)](https://internarenadata.sapiens.solutions/)" (Sapiens Solutions, Москва). 
